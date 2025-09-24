@@ -1,0 +1,6 @@
+{
+  "api_key": "sk-zal9bqS7gY-HnKpPh-eZQw",
+  "base_url": "https://ai.sumopod.com",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "language": "English"
+}
